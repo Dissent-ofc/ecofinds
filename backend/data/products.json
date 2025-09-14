@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Desk Chair",
+    "description": "Comfortable office chair, slightly used",
+    "category": "Furniture",
+    "price": 1200,
+    "image": "https://images.unsplash.com/photo-1598300050158-56b0f2d3f3f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "owner_id": 1
+  },
+  {
+    "id": 2,
+    "title": "iPhone 12 Pro Max",
+    "description": "Lightly used iPhone 12 Pro Max with original box",
+    "category": "Electronics",
+    "price": 55000,
+    "image": "https://www.gizmochina.com/wp-content/uploads/2020/05/iphone-12-pro-max-family-hero-all-600x600.jpg?x70461",
+    "owner_id": 2
+  },
+  {
+    "id": 3,
+    "title": "Hero Splendor Plus Bike",
+    "description": "2018 model, single owner, well-maintained",
+    "category": "Vehicles",
+    "price": 45000,
+    "image": "https://images.unsplash.com/photo-1618313358358-4b0f434a75f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "owner_id": 3
+  },
+  {
+    "id": 4,
+    "title": "Samsung 55-inch Smart TV",
+    "description": "Brand new Samsung 4K LED Smart TV",
+    "category": "Electronics",
+    "price": 65000,
+    "image": "https://images.unsplash.com/photo-1580584120497-0d5f3f5f4d5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "owner_id": 4
+  },
+  {
+    "id": 5,
+    "title": "Nike Running Shoes",
+    "description": "Lightly used, very comfortable, size 10",
+    "category": "Fashion",
+    "price": 3500,
+    "image": "https://images.unsplash.com/photo-1600180758896-4f2b1b4e0b2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "owner_id": 5
+  },
+  {
+    "id": 6,
+    "title": "Wooden Dining Table",
+    "description": "Solid wood, seats 6, lightly used",
+    "category": "Furniture",
+    "price": 8000,
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "owner_id": 6
+  },
+  {
+    "id": 7,
+    "title": "MacBook Air 2020",
+    "description": "Used MacBook Air in excellent condition",
+    "category": "Electronics",
+    "price": 75000,
+    "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "owner_id": 7
+  },
+  {
+    "id": 8,
+    "title": "Mountain Bike",
+    "description": "Brand new MTB, lightweight frame, 21-speed",
+    "category": "Vehicles",
+    "price": 15000,
+    "image": "https://images.unsplash.com/photo-1520975911984-0aa84e747b5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "owner_id": 8
+  },
+  {
+    "id": 9,
+    "title": "Leather Sofa",
+    "description": "3-seater leather sofa, slightly used",
+    "category": "Furniture",
+    "price": 12000,
+    "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "owner_id": 9
+  },
+  {
+    "id": 10,
+    "title": "Canon DSLR Camera",
+    "description": "Used Canon EOS DSLR with 18-55mm lens",
+    "category": "Electronics",
+    "price": 28000,
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962f0b54b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "owner_id": 10
+  }
+]

@@ -1,0 +1,12 @@
+body { font-family: Arial, Helvetica, sans-serif; margin: 0; padding: 0; }
+.app { padding: 16px; max-width: 1000px; margin: 0 auto; }
+.header { display:flex; justify-content:space-between; align-items:center; gap:16px; padding:12px 0; }
+.nav { display:flex; gap:10px; }
+.grid { display:grid; grid-template-columns: repeat(auto-fill, minmax(220px,1fr)); gap:16px; }
+.card { border:1px solid #ddd; padding:12px; border-radius:8px; background:#fff; }
+.button { padding:8px 12px; border:none; cursor:pointer; border-radius:6px; }
+.primary { background:#2b8a3e; color:white; }
+.text-muted { color:#666; font-size:0.9rem; }
+.input { padding:8px; border:1px solid #ccc; border-radius:6px; width:100%; box-sizing:border-box; }
+.form-row { margin-bottom:10px; }
+.small { font-size:0.9rem; }
